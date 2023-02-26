@@ -25,7 +25,7 @@
       "@/lib": ["lib/*"],
       "@/hooks/*": ["hooks/*"],
       "@/lib/*": ["lib/*"],
-      "@/styles/*": ["styles/*"],
+      "@/styles/*": ["./styles/*"],
       "@/prisma/*": ["prisma/*"],
       "@/assets/*": ["assets/*"]
     }
